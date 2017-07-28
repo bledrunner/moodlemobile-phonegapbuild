@@ -1,6 +1,6 @@
 {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "appname": "SIP Quiz Mobile",
     "versioncode" : "2018",
     "versionname" : "3.3.0",
     "cache_expiration_time" : 300000,
@@ -9,7 +9,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "presets" : {"url": "http://185.164.4.227/moodle/", "username": ""},
-    "demo_sites": {"student": {"url": "http://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "http://school.demo.moodle.net", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://mm.cvaconsulting.com/moodle", "username": "student", "password": "student"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "siteurl": "http://185.164.4.227/moodle/",
