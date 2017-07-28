@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20180"
         version   = "3.3.0">
-    <name>SIP</name>
+    <name>SIP Quiz</name>
 
     <description>
-        SIP App
+        SIP Quiz Mobile
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
