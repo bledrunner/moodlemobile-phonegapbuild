@@ -11,8 +11,8 @@
         SIP Quiz Mobile
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://sip-a1.at" email="admin@sip-a1.at">
+        Quality Team 3
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
