@@ -59904,7 +59904,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": „SIP Quiz Mobile",
+    "appname": „Moodle Mobile“,
     "versioncode" : "2018",
     "versionname" : "3.3.0",
     "cache_expiration_time" : 300000,
